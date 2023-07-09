@@ -13,4 +13,3 @@ public class TutorialApplication {
 	}
 
 }
-//C:\Users\syeds\OneDrive\Desktop\Java\tutorial\target
